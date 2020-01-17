@@ -1,0 +1,2 @@
+# payom
+Termux
